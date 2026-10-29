@@ -2,7 +2,7 @@
 
     <div class="relative h-dvh w-full overflow-hidden bg-black">
     <Grainient
-        :colors="['#120f17', '#3f0d1a', '#be123c', '#fb923c', '#fde68a']"
+        :colors="['#0b0618', '#2e1065', '#7c3aed', '#c4b5fd', '#f5f3ff']"
         :angle="150"
         :bands="1"
         :softness="1"
