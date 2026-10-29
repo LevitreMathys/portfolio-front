@@ -10,11 +10,17 @@
     />
     </div>
 
+    <section>
+
+        <ProfileCard />
+
+    </section>
 
 </template>
 
 <script lang="ts" setup>
 
     import Grainient from '~/components/ui/grainient/Grainient.vue';
+import ProfileCard from '../ProfileCard.vue';
     
 </script>
